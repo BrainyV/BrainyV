@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Brainy
+- 👀 I’m a noob bot developer... Yeah I am noob developer. *yikes*
+- 🌱 I’m currently learning javascrpt, and sudying on school ofcourse... **"Research"**
+- 📫 I have a dank memer based server... [Join Here](https://discord.gg/22wR72f4Mg)
